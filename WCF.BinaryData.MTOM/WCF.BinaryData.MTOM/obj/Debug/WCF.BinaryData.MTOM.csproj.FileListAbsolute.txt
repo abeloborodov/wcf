@@ -1,0 +1,6 @@
+D:\dProjects\Gosuslugi\WCF\WCF.BinaryData.Post\WCF.BinaryData.MTOM\WCF.BinaryData.MTOM\bin\Debug\WCF.BinaryData.MTOM.exe.config
+D:\dProjects\Gosuslugi\WCF\WCF.BinaryData.Post\WCF.BinaryData.MTOM\WCF.BinaryData.MTOM\bin\Debug\WCF.BinaryData.MTOM.exe
+D:\dProjects\Gosuslugi\WCF\WCF.BinaryData.Post\WCF.BinaryData.MTOM\WCF.BinaryData.MTOM\bin\Debug\WCF.BinaryData.MTOM.pdb
+D:\dProjects\Gosuslugi\WCF\WCF.BinaryData.Post\WCF.BinaryData.MTOM\WCF.BinaryData.MTOM\obj\Debug\WCF.BinaryData.MTOM.csprojResolveAssemblyReference.cache
+D:\dProjects\Gosuslugi\WCF\WCF.BinaryData.Post\WCF.BinaryData.MTOM\WCF.BinaryData.MTOM\obj\Debug\WCF.BinaryData.MTOM.exe
+D:\dProjects\Gosuslugi\WCF\WCF.BinaryData.Post\WCF.BinaryData.MTOM\WCF.BinaryData.MTOM\obj\Debug\WCF.BinaryData.MTOM.pdb
