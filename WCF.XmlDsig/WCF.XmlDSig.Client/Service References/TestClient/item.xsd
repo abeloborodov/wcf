@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xs:schema xmlns:tns="urn://x-artefacts-smev-gov-ru/services/message-exchange/types/1.1" elementFormDefault="qualified" targetNamespace="urn://x-artefacts-smev-gov-ru/services/message-exchange/types/1.1" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:import schemaLocation="http://abeloborodov-pc:8731/TestService/?xsd=xsd1" namespace="urn://x-artefacts-smev-gov-ru/services/message-exchange/types/basic/1.1" />
+  <xs:element name="Request">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" maxOccurs="1" name="SenderProvidedRequestData" type="tns:SenderProvidedRequestData" />
+        <xs:element minOccurs="0" maxOccurs="1" name="DepartmentSignature">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:any />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:complexType name="SenderProvidedRequestData">
+    <xs:sequence>
+      <xs:element xmlns:q1="urn://x-artefacts-smev-gov-ru/services/message-exchange/types/basic/1.1" minOccurs="0" maxOccurs="1" ref="q1:PrimaryContent" />
+      <xs:element minOccurs="0" maxOccurs="1" name="BusinessProcessMetadata" type="tns:BusinessProcessMetadata" />
+      <xs:element minOccurs="0" maxOccurs="1" name="PersonalSignature">
+        <xs:complexType>
+          <xs:sequence>
+            <xs:any />
+          </xs:sequence>
+        </xs:complexType>
+      </xs:element>
+    </xs:sequence>
+    <xs:attribute name="Id" type="xs:ID" />
+  </xs:complexType>
+  <xs:complexType name="BusinessProcessMetadata">
+    <xs:sequence>
+      <xs:element minOccurs="0" maxOccurs="1" name="ServiceCode" type="xs:string" />
+      <xs:element minOccurs="0" maxOccurs="1" name="CaseNumber" type="xs:string" />
+    </xs:sequence>
+  </xs:complexType>
+</xs:schema>

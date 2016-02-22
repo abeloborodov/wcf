@@ -1,0 +1,5 @@
+C:\Users\abeloborodov\Documents\Visual Studio 2013\Projects\WCF.BinaryData.MTOM\WCF.XmlDSig.Core\obj\Debug\WCF.XmlDSig.Core.csprojResolveAssemblyReference.cache
+C:\Users\abeloborodov\Documents\Visual Studio 2013\Projects\WCF.BinaryData.MTOM\WCF.XmlDSig.Core\bin\Debug\WCF.XmlDSig.Core.dll
+C:\Users\abeloborodov\Documents\Visual Studio 2013\Projects\WCF.BinaryData.MTOM\WCF.XmlDSig.Core\bin\Debug\WCF.XmlDSig.Core.pdb
+C:\Users\abeloborodov\Documents\Visual Studio 2013\Projects\WCF.BinaryData.MTOM\WCF.XmlDSig.Core\obj\Debug\WCF.XmlDSig.Core.dll
+C:\Users\abeloborodov\Documents\Visual Studio 2013\Projects\WCF.BinaryData.MTOM\WCF.XmlDSig.Core\obj\Debug\WCF.XmlDSig.Core.pdb

@@ -1,0 +1,16 @@
+C:\Users\abeloborodov\Documents\Visual Studio 2013\Projects\WCF.BinaryData.MTOM\WCF.BinaryData.MTOM.Client\bin\Debug\WCF.XmlDSig.Client.exe.config
+C:\Users\abeloborodov\Documents\Visual Studio 2013\Projects\WCF.BinaryData.MTOM\WCF.BinaryData.MTOM.Client\bin\Debug\WCF.XmlDSig.Client.exe
+C:\Users\abeloborodov\Documents\Visual Studio 2013\Projects\WCF.BinaryData.MTOM\WCF.BinaryData.MTOM.Client\bin\Debug\WCF.XmlDSig.Client.pdb
+C:\Users\abeloborodov\Documents\Visual Studio 2013\Projects\WCF.BinaryData.MTOM\WCF.BinaryData.MTOM.Client\obj\Debug\WCF.XmlDSig.Client.exe
+C:\Users\abeloborodov\Documents\Visual Studio 2013\Projects\WCF.BinaryData.MTOM\WCF.BinaryData.MTOM.Client\obj\Debug\WCF.XmlDSig.Client.pdb
+C:\Users\abeloborodov\Documents\Visual Studio 2013\Projects\WCF.BinaryData.MTOM\WCF.XmlDSig.Client\bin\Debug\WCF.XmlDSig.Client.exe.config
+C:\Users\abeloborodov\Documents\Visual Studio 2013\Projects\WCF.BinaryData.MTOM\WCF.XmlDSig.Client\bin\Debug\WCF.XmlDSig.Client.exe
+C:\Users\abeloborodov\Documents\Visual Studio 2013\Projects\WCF.BinaryData.MTOM\WCF.XmlDSig.Client\bin\Debug\WCF.XmlDSig.Client.pdb
+C:\Users\abeloborodov\Documents\Visual Studio 2013\Projects\WCF.BinaryData.MTOM\WCF.XmlDSig.Client\obj\Debug\WCF.XmlDSig.Client.csprojResolveAssemblyReference.cache
+C:\Users\abeloborodov\Documents\Visual Studio 2013\Projects\WCF.BinaryData.MTOM\WCF.XmlDSig.Client\obj\Debug\WCF.XmlDSig.Client.exe
+C:\Users\abeloborodov\Documents\Visual Studio 2013\Projects\WCF.BinaryData.MTOM\WCF.XmlDSig.Client\obj\Debug\WCF.XmlDSig.Client.pdb
+C:\Users\abeloborodov\Documents\Visual Studio 2013\Projects\WCF.BinaryData.MTOM\WCF.XmlDSig.Client\bin\Debug\WCF.XmlDSig.Core.dll
+C:\Users\abeloborodov\Documents\Visual Studio 2013\Projects\WCF.BinaryData.MTOM\WCF.XmlDSig.Client\bin\Debug\WCF.XmlDSig.Core.pdb
+D:\git-projects\wcf\WCF.XmlDsig\WCF.XmlDSig.Client\bin\Debug\WCF.XmlDSig.Client.exe.config
+D:\git-projects\wcf\WCF.XmlDsig\WCF.XmlDSig.Client\obj\Debug\WCF.XmlDSig.Client.exe
+D:\git-projects\wcf\WCF.XmlDsig\WCF.XmlDSig.Client\obj\Debug\WCF.XmlDSig.Client.pdb

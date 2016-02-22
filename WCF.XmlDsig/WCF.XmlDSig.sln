@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WCF.XmlDSig.Service", "WCF.XmlDSig.Service\WCF.XmlDSig.Service.csproj", "{9853B63F-A775-4D37-B82F-9F12E3258890}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WCF.XmlDSig.Client", "WCF.XmlDSig.Client\WCF.XmlDSig.Client.csproj", "{D7B505BF-9F9A-49F2-AD19-69894758D4D8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WCF.XmlDSig.Core", "WCF.XmlDSig.Core\WCF.XmlDSig.Core.csproj", "{3B21D08B-057B-4DBF-873A-69ABD31EA4EC}"
+EndProject
+Global
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 4
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = http://tfs_server.datateh.ru:8080/tfs/defaultcollection
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = WCF.XmlDSig.Client\\WCF.XmlDSig.Client.csproj
+		SccProjectName1 = WCF.XmlDSig.Client
+		SccLocalPath1 = WCF.XmlDSig.Client
+		SccProjectUniqueName2 = WCF.XmlDSig.Service\\WCF.XmlDSig.Service.csproj
+		SccProjectName2 = WCF.XmlDSig.Service
+		SccLocalPath2 = WCF.XmlDSig.Service
+		SccProjectUniqueName3 = WCF.XmlDSig.Core\\WCF.XmlDSig.Core.csproj
+		SccProjectName3 = WCF.XmlDSig.Core
+		SccLocalPath3 = WCF.XmlDSig.Core
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9853B63F-A775-4D37-B82F-9F12E3258890}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9853B63F-A775-4D37-B82F-9F12E3258890}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9853B63F-A775-4D37-B82F-9F12E3258890}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9853B63F-A775-4D37-B82F-9F12E3258890}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D7B505BF-9F9A-49F2-AD19-69894758D4D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D7B505BF-9F9A-49F2-AD19-69894758D4D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D7B505BF-9F9A-49F2-AD19-69894758D4D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D7B505BF-9F9A-49F2-AD19-69894758D4D8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3B21D08B-057B-4DBF-873A-69ABD31EA4EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B21D08B-057B-4DBF-873A-69ABD31EA4EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3B21D08B-057B-4DBF-873A-69ABD31EA4EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B21D08B-057B-4DBF-873A-69ABD31EA4EC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

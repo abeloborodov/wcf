@@ -1,0 +1,21 @@
+C:\Users\abeloborodov\Documents\Visual Studio 2013\Projects\WCF.BinaryData.MTOM\WCF.BinaryData.MTOM\bin\Debug\WCF.XmlDSig.Service.exe.config
+C:\Users\abeloborodov\Documents\Visual Studio 2013\Projects\WCF.BinaryData.MTOM\WCF.BinaryData.MTOM\bin\Debug\WCF.XmlDSig.Service.exe
+C:\Users\abeloborodov\Documents\Visual Studio 2013\Projects\WCF.BinaryData.MTOM\WCF.BinaryData.MTOM\bin\Debug\WCF.XmlDSig.Service.pdb
+C:\Users\abeloborodov\Documents\Visual Studio 2013\Projects\WCF.BinaryData.MTOM\WCF.BinaryData.MTOM\obj\Debug\WCF.XmlDSig.Service.exe
+C:\Users\abeloborodov\Documents\Visual Studio 2013\Projects\WCF.BinaryData.MTOM\WCF.BinaryData.MTOM\obj\Debug\WCF.XmlDSig.Service.pdb
+C:\Users\abeloborodov\Documents\Visual Studio 2013\Projects\WCF.BinaryData.MTOM\WCF.XmlDSig.Service\bin\Debug\WCF.XmlDSig.Service.exe.config
+C:\Users\abeloborodov\Documents\Visual Studio 2013\Projects\WCF.BinaryData.MTOM\WCF.XmlDSig.Service\obj\Debug\WCF.XmlDSig.Service.exe
+C:\Users\abeloborodov\Documents\Visual Studio 2013\Projects\WCF.BinaryData.MTOM\WCF.XmlDSig.Service\obj\Debug\WCF.XmlDSig.Service.pdb
+C:\Users\abeloborodov\Documents\Visual Studio 2013\Projects\WCF.BinaryData.MTOM\WCF.XmlDSig.Service\bin\Debug\WCF.XmlDSig.Service.exe
+C:\Users\abeloborodov\Documents\Visual Studio 2013\Projects\WCF.BinaryData.MTOM\WCF.XmlDSig.Service\bin\Debug\WCF.XmlDSig.Service.pdb
+C:\Users\abeloborodov\Documents\Visual Studio 2013\Projects\WCF.BinaryData.MTOM\WCF.XmlDSig.Service\obj\Debug\WCF.XmlDSig.Service.csprojResolveAssemblyReference.cache
+C:\Users\abeloborodov\Documents\Visual Studio 2013\Projects\WCF.BinaryData.MTOM\WCF.XmlDSig.Service\bin\Debug\WCF.XmlDSig.Core.dll
+C:\Users\abeloborodov\Documents\Visual Studio 2013\Projects\WCF.BinaryData.MTOM\WCF.XmlDSig.Service\bin\Debug\WCF.XmlDSig.Core.pdb
+D:\git-projects\wcf\WCF.XmlDsig\WCF.XmlDSig.Service\bin\Debug\WCF.XmlDSig.Service.exe.config
+D:\git-projects\wcf\WCF.XmlDsig\WCF.XmlDSig.Service\obj\Debug\WCF.XmlDSig.Service.exe
+D:\git-projects\wcf\WCF.XmlDsig\WCF.XmlDSig.Service\obj\Debug\WCF.XmlDSig.Service.pdb
+D:\git-projects\wcf\WCF.XmlDsig\WCF.XmlDSig.Service\bin\Debug\WCF.XmlDSig.Service.exe
+D:\git-projects\wcf\WCF.XmlDsig\WCF.XmlDSig.Service\bin\Debug\WCF.XmlDSig.Service.pdb
+D:\git-projects\wcf\WCF.XmlDsig\WCF.XmlDSig.Service\bin\Debug\WCF.XmlDSig.Core.dll
+D:\git-projects\wcf\WCF.XmlDsig\WCF.XmlDSig.Service\bin\Debug\WCF.XmlDSig.Core.pdb
+D:\git-projects\wcf\WCF.XmlDsig\WCF.XmlDSig.Service\obj\Debug\WCF.XmlDSig.Service.csprojResolveAssemblyReference.cache
